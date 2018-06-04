@@ -1,7 +1,12 @@
 # Virtual host 
     cursolaravel1.com.devel
 
-    Mod 5cd 4
+echo "# Probando-Laravel" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/jmanzanf/Probando-Laravel.git
+git push -u origin master
 
 # Laravel PHP Framework
 
